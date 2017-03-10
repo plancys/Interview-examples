@@ -7,7 +7,7 @@
 
 ### Java
 
-### Garbage collector
+#### Garbage collector
 [GC Design and Pauses](https://shipilev.net/jvm-anatomy-park/3-gc-design-and-pauses/)
 
 #### Multithreading
